@@ -1,0 +1,13 @@
+name = "GRAD ConnectButtonPort";
+author = "Gruppe Adler";
+picture = "Adler.paa";
+actionName = "Website";
+action = "https://www.gruppe-adler.de/";
+description = "Gruppe Adler Mod";
+logo = "Adler.paa";
+logoOver = "Adler.paa";
+tooltip = "GRAD ConnectButtonPort";
+overview = "Sets port for Gruppe Adler Mod's directConnect button.";
+overviewPicture = "Adler.paa";
+overviewText = "";
+overviewFootnote = "";
