@@ -4,7 +4,7 @@ zip_path="zip.exe"
 modname="@grad_connectButtonPort"
 pboprefix="grad_"
 componentname="connectButtonPort"
-ports=(2302 2402 2502 2602 2702 2802 2902)
+ports=(2102 2202 2302 2402 2502 2602 2702 2802 2902)
 
 ### AS AS USER, DONT EDIT BELOW THIS LINE ###
 
